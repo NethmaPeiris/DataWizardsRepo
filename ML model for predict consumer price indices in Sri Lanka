@@ -1,0 +1,8 @@
+This report comprises a "Linear Regression Machine Learning Model" built for the data set available on The Humanitarian Data Exchange(https://data.humdata.org/) website.
+focusing on the prices in Sri Lanka across various categories such as Consumer Price Indices, Deflators, Exchange rates, and Producer Prices.
+The selected data set, which serves as the basis for the provided model, revolves around the Consumer Price Indices.
+Within this data set, three types of indices are included: Food indices, General indices, and Food price inflations. 
+The values within the data set span from the year 2000 to 2021, encompassing each month of the respective years. It is worth noting that the values in the data set are referenced against a hypothesis known as "based year 2015 as 100."
+This hypothesis implies that values around 2015 are relatively equivalent to the numerical value of 100. Moreover, the Food Inflation values are presented as percentages, while all the values are denominated in a single currency unit.
+The focus of the provided model is specifically tailored to the "Consumer Price Indices."
+The primary objective behind developing this model is to predict values for any given year and month, utilizing a unique code to represent each month. The overarching goal is to minimize the error rate and enhance the prediction capabilities of the model.
